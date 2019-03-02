@@ -23,6 +23,18 @@ For build instructions and other development tutorials, see [the wiki](https://g
 
 For game compatibility, see [community compatibility feedback](https://report.ppsspp.org/games).
 
+What's new in 1.8.0
+-------------------
+* PowerVR Vulkan display corruption fixed
+* Naruto Shippuden 3 hang fixed
+* Corrected vocp instruction, fixing Artdink games
+* Fix or workaround lack off support for vertex range culling on many GPUs
+* Fix Formula 06 timing issue
+* Fix "real clock sync" setting (helps with latency for music games)
+* Android: Allow putting PSP storage on custom paths like SD cards
+* UWP Xbox One: fix X/Back button confusion
+* Vulkan: Workarounds for some driver bugs for 5xx series Qualcomm GPUs
+* Fixes and workarounds for some vertex range culling bugs that broke a few games
 
 What's new in 1.7.3/1.7.4/1.7.5
 -------------------
